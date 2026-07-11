@@ -1,3 +1,5 @@
+<img width="863" height="642" alt="imagescluster_scatter png" src="https://github.com/user-attachments/assets/cd558d48-5d33-4ddf-9df3-dba427ec8083" />
+<img width="863" height="642" alt="imagescluster_scatter png" src="https://github.com/user-attachments/assets/6a421525-76ee-4322-994a-dd23e3da40fb" />
 <div align="center">
 
 # 🛍️ Mall Customer Segmentation
