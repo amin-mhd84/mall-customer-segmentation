@@ -171,8 +171,6 @@ jupyter notebook notebooks/mall_customer_segmentation.ipynb
 4. برنچ را Push کنید (`git push origin feature/awesome-feature`)
 5. یک Pull Request باز کنید
 
-برای گزارش باگ یا پیشنهاد ویژگی، از بخش [Issues](../../issues) استفاده کنید.
-
 ## 📄 مجوز
 
 این پروژه تحت مجوز [MIT](LICENSE) منتشر شده است — استفاده، تغییر و توزیع آزاد است.
@@ -180,9 +178,5 @@ jupyter notebook notebooks/mall_customer_segmentation.ipynb
 ---
 
 <div align="center">
-
-اگر این پروژه برایتان مفید بود، یک ⭐️ فراموش نشود!
-
-ساخته‌شده با 🧡 توسط [نام شما](https://github.com/<username>)
 
 </div>
