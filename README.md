@@ -115,21 +115,28 @@ mall-customer-segmentation/
 | ۵. ارزیابی | محاسبه‌ی Silhouette Score نهایی |
 | ۶. تفسیر کسب‌وکاری | پروفایل‌سازی هر خوشه و تبدیل آن به بینش قابل‌اقدام برای تیم بازاریابی |
 
-## اجرای پروژه
+## 🚀 اجرای پروژه
 
+**۱. کلون کردن ریپازیتوری**
 ```bash
-# ۱. کلون کردن ریپازیتوری
 git clone https://github.com/<username>/mall-customer-segmentation.git
 cd mall-customer-segmentation
+```
 
-# ۲. ساخت محیط مجازی (اختیاری ولی توصیه‌شده)
+**۲. ساخت محیط مجازی** (اختیاری ولی توصیه‌شده)
+```bash
 python -m venv venv
-source venv/bin/activate      # ویندوز: venv\Scripts\activate
+source venv/bin/activate
+```
+> ویندوز: `venv\Scripts\activate`
 
-# ۳. نصب وابستگی‌ها
+**۳. نصب وابستگی‌ها**
+```bash
 pip install -r requirements.txt
+```
 
-# ۴. اجرای نوت‌بوک
+**۴. اجرای نوت‌بوک**
+```bash
 jupyter notebook notebooks/mall_customer_segmentation.ipynb
 ```
 
