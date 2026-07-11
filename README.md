@@ -60,7 +60,7 @@
 
 | Elbow & Silhouette | توزیع ویژگی‌ها |
 |:---:|:---:|
-| <img width="693" height="241" alt="Screenshot 2026-07-11 113242" src="https://github.com/user-attachments/assets/b6d8bfd4-078e-4c31-b9ac-ff8081a7b114" /> | ![dist](images/distributions.png) |
+| <img width="693" height="241" alt="Screenshot 2026-07-11 113242" src="https://github.com/user-attachments/assets/b6d8bfd4-078e-4c31-b9ac-ff8081a7b114" /> | <img width="1248" height="322" alt="Screenshot 2026-07-11 113434" src="https://github.com/user-attachments/assets/614c4372-fa51-4e07-9b45-0dec3f555ba0" /> |
 
 </details>
 
